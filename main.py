@@ -1,6 +1,3 @@
-# Install necessary libraries
-#!pip install mediapipe opencv-python
-
 # Import libraries
 import cv2
 import mediapipe as mp
